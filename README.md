@@ -13,12 +13,13 @@ SQLify is an end-to-end text-to-SQL application developed using Large Language M
 
 To install SQLify, simply clone the repository and install the required dependencies:
 
+## Deployment
+
+SQLify can be deployed on Google Gemini Pro for efficient querying of SQL databases. Please refer to the deployment documentation for detailed instructions.
+SQLify is deployed on Streamlit for interactive use. You can access the deployed app here.
+
+
 ```bash
 git clone https://github.com/ashish23112rai/SQLify.git
 cd SQLify
 pip install -r requirements.txt
-
-Deployment
-SQLify can be deployed on Google Gemini Pro for efficient querying of SQL databases. Please refer to the deployment documentation for detailed instructions.
-
-SQLify is deployed on Streamlit for interactive use. You can access the deployed app here.
